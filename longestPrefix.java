@@ -21,7 +21,7 @@ public class longestPrefix {
             }
         }
         return s1.substring(0, prefixIndex);
-    }
+    }   
 
     public static void main(String args[]) {
         String arr[] = {"flower","flow","flight"};
